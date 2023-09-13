@@ -51,13 +51,14 @@ PGFinder is a comprehensive real estate portal application developed using Java.
    ```bash
    git clone https://github.com/amanpal-git/PGFinder.git
 
+
 2. Compile the Java source code:
 
-javac path/to/your/java/files/*.java
+    - javac path/to/your/java/files/*.java
 
-3.Run the application:
+3. Run the application:
 
-java -cp path/to/your/java/files pgfinder
+    - java -cp path/to/your/java/files pgfinder
 
 
 #  Usage
@@ -67,10 +68,13 @@ Depending on your user role, explore functionalities like property listing, sear
 Use the provided interfaces for smooth interaction with the application.
 Contributing
 Contributions are welcome! If you'd like to contribute to this project, follow these steps:
+- Make sure to use JavaJDK and set the path to destination
+- Make sure to use JDBC Connector for database connectivity
 
 #  Fork the repository.
 
-Create a new branch for your feature or bug fix: git checkout -b feature-name.
-Make your changes and commit them: git commit -m "Add some feature".
-Push your changes to your fork: git push origin feature-name.
-Create a pull request in the original repository.
+- Create a new branch for your feature or bug fix: git checkout -b feature-name.
+
+- Make your changes and commit them: git commit -m "Add some feature".
+- Push your changes to your fork: git push origin feature-name.
+- Create a pull request in the original repository.
