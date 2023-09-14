@@ -49,7 +49,7 @@ PGFinder is a comprehensive real estate portal application developed using Java.
 1. Clone the repository using Git (or download the ZIP file):
 
    ```bash
-   git clone https://github.com/amanpal-git/PGFinder.git
+   git clone https://github.com/realshubhamraut/PG-Finder.git
 
 
 2. Compile the Java source code:
