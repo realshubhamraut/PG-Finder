@@ -71,7 +71,7 @@ Contributions are welcome! If you'd like to contribute to this project, follow t
 - Make sure to use JavaJDK and set the path to destination
 - Make sure to use JDBC Connector for database connectivity
 
-#  Fork the repository.
+#  Fork the repository
 
 - Create a new branch for your feature or bug fix: git checkout -b feature-name.
 
@@ -79,6 +79,6 @@ Contributions are welcome! If you'd like to contribute to this project, follow t
 - Push your changes to your fork: git push origin feature-name.
 - Create a pull request in the original repository.
 
-#  Fork the repository.
+#  Important
 
 #### 📌 You have to create SQL database with the help of code and make the connections accordingly
