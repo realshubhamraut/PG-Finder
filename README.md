@@ -78,3 +78,7 @@ Contributions are welcome! If you'd like to contribute to this project, follow t
 - Make your changes and commit them: git commit -m "Add some feature".
 - Push your changes to your fork: git push origin feature-name.
 - Create a pull request in the original repository.
+
+#  Fork the repository.
+
+### 📌 You have to create SQL database accordingly with the help of code and make the connections
