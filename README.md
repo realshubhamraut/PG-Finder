@@ -81,4 +81,4 @@ Contributions are welcome! If you'd like to contribute to this project, follow t
 
 #  Fork the repository.
 
-### 📌 You have to create SQL database accordingly with the help of code and make the connections
+#### 📌 You have to create SQL database accordingly with the help of code and make the connections
